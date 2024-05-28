@@ -1,8 +1,8 @@
 #include "ValueIO.hpp"
 #include <string>
 #include <cmath>
-#include "Delimiter.hpp"
-#include "StreamGuard.hpp"
+#include <Delimiter.hpp>
+#include <streamGuard.hpp>
 
 std::string convertDblToSci(double num)
 {
